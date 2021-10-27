@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @md-arbaz98
-- 👀 I’m interested in software development using C++ and data analysis & data mining using python
+- 👀 I’m curiously interested in software development && web-tech
 - 🌱 I’m currently learning C/C++ in native way ;)
-- 💞️ I’m looking to collaborate on web-application based on python
+- 💞️ I’m looking to collaborate on web-application
 - 📫 You can leave your feedback on arbaz12398@gmail.com
 
 <!---
