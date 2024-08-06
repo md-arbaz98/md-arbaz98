@@ -1,7 +1,7 @@
 -  Hi, myself @md-arbaz98 ( md arbaz )✌️
 - 🍂 worked on some minor webpages html+css/sass and python-GUI based application.
 - Tired of feeling lost in the final year project maze? Me too!
-- I made this repo to share my code and experiences with other students.
+- I made this repo to share my code and experiences with other beginners.
 - Feel free to fork my projects, Lets build, crash, debug, experiment, and learn at your own pace.
 
 <!---
